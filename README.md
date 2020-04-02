@@ -18,6 +18,7 @@ The original dark material theme can be found here:
 The light theme is basically ![solarized](https://ethanschoonover.com/solarized/) light with the BG color changed.
 
 
-The repo includes jpgs of the drop down backgrounds as well as a sample gimp project to produce similar.
-If the colors look off in your terminal - try toggling the 'set bold colors as bright' settings  
-if your terminal has one.
+The repo includes:
+- Themes for XFCE4 terminal.
+- jpgs of the drop down backgrounds as well as a sample gimp project to produce similar.
+If the colors look off in your terminal - try toggling the 'set bold colors as bright' settings if your terminal has one.
