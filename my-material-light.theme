@@ -1,0 +1,9 @@
+# Put in /usr/share/xfce4/terminal/colorschemes or ~/.local/share/xfce4/terminal/colorschemes/
+[Scheme]
+Name=My Material (light)
+Documentation=Based on solarized light - only the BG color is different.
+ColorForeground=#444444
+ColorBackground=#eeeeee
+ColorCursor=#444444
+ColorPalette=#073642;#dc322f;#859900;#b58900;#268bd2;#d33682;#2aa198;#eee8d5;#002b36;#cb4b16;#586e75;#657b83;#839496;#6c71c4;#93a1a1;#fdf6e3
+ColorBoldUseDefault=TRUE
